@@ -1,0 +1,14 @@
+
+->Time complexity:- amount of tym taken (operation) as function of input size(n).
+->yeh large input me handel ki jatti h...
+->complexity representation:-1.Big O = upper bond/ worst case.(min val)
+                             2.thetha = avg case.(min+max/val)
+                             3.omega = best case/lower bond.(max val)
+->Type:-1.constant tym/o1 = when value of n is known 
+        2.linear tym/o(n) = jb n ke ass pass aaye.
+        3.quadratic/o(n2) = jb loop ke andr loop chle.
+        4.o(logn) = kekn value drasticaly change ho jaye.
+        5.exponential/o(2kin) = 
+        6.n!/factorial = 
+->TLE:-when the time is excede then this situatuon comes.
+->space complexity:- 
