@@ -18,3 +18,4 @@ function throt(fn,delay){
 
 
  newfnc();
+ 
