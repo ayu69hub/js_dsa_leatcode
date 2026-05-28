@@ -11,6 +11,8 @@ function counter(){
 var fn = counter();
 fn();
 fn();
+
+
 fn();
 fn();
 fn();
