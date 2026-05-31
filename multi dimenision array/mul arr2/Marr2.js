@@ -14,3 +14,6 @@ for(i=0;i<arr.length;i++){
 }
 console.log("left sum "+leftSum);
 console.log("rightt sum "+rightSum);
+
+
+
