@@ -14,3 +14,7 @@ while(i<j){
 }
 if(isPallindrome) console.log("given string is pallindrome")
 else console.log("given string is not pallindrome")
+
+
+
+
