@@ -5,3 +5,8 @@ let naam = "AYUSH"
     rev = rev+naam.charAt(i)
  }
  console.log(rev);
+
+
+
+
+ 
